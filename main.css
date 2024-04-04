@@ -1,0 +1,13 @@
+#logo {
+    color: rgb(214, 11, 11);
+    font-weight: bold;
+    text-align: center;
+}
+.navbar-text {
+    color: black;
+}
+
+#sneaker-name {
+    text-decoration: none;
+    text-transform: uppercase;
+}
